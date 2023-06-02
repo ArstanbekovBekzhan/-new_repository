@@ -1,11 +1,11 @@
 import SCard from "./Card.module.css"
 import Erros from "../../Galilee/errors.png"
+import { NavLink } from "react-router-dom";
 
 const Card = ({ cards }) => (
-    <div>
       <div className={SCard.Cards} >
          {cards.map(card => (
-        <div className={SCard.Card} key={card.id}>
+          <NavLink  className={SCard.Card} key={card.id} to={`/cards/${card.id}`}>
           <div className="img">
           <img src={card.image || Erros } alt="" />
           </div>
@@ -16,9 +16,8 @@ const Card = ({ cards }) => (
           <h4>{card.Nick}</h4>
           </div>
           </div>
-        </div>
+          </NavLink>
       ))}
       </div>
-    </div>
   );
 export {Card}

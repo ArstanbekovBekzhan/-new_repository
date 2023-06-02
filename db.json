@@ -3,10 +3,12 @@
     {
       "id": "1",
       "Nick": "Нурик",
-      "Nick_image": "https://sun9-46.userapi.com/impg/KD7IS775Ma334G4Fyub1oJsYLh0qOFSZPwunfA/xUiVE6bIT_o.jpg?size=600x600&quality=96&sign=c92c85105273a2afbffbb51b598d5f55&c_uniq_tag=boKPUWd8_6gSQKvCWpU_HZIRNmvGkD1A3MrxU12WZjU&type=album",
+      "Nick_image": "https://s.sakh.com/i/desk/info/222/222911/f0a211140dcf46b73a6d6d5b25c1e4710a3a9c2c7.jpg",
       "title": "Столб",
       "text": "Этот проклятый столб просто стоит на моем пути каждый день! Он совершенно ненужен и только мешает движению! Почему его не убирают? Я уже устал обходить его каждый раз, когда иду по этой дороге. Это просто неприемлемо!",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9IMtEyGE3iYTnGyKa65gNFlgEsCIcFADsWkqZ4XO81KGh_CJNX16xATO8zo74gwQ3cWA&usqp=CAU"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9IMtEyGE3iYTnGyKa65gNFlgEsCIcFADsWkqZ4XO81KGh_CJNX16xATO8zo74gwQ3cWA&usqp=CAU",
+      "location": "Улица Манаса, дом 12"
+      
     },
     {
       "id": "2",
@@ -14,7 +16,9 @@
       "Nick_image": "https://klike.net/uploads/posts/2019-03/1551511801_1.jpg",
       "title": "Дом",
       "text": "Этот старый дом на углу просто ужасен! Он выглядит заброшенным и создает плохое впечатление о районе. Почему его не отремонтируют или не снесут? Это портит всю атмосферу!",
-      "image": "https://kubnews.ru/upload/resize_cache/iblock/dad/1200_630_2/dad1a66784cfc77b98e977a31b586521.jpg"
+      "image": "https://kubnews.ru/upload/resize_cache/iblock/dad/1200_630_2/dad1a66784cfc77b98e977a31b586521.jpg",
+      "location": "Проспект Чуй, дом 45"
+      
     },
     {
       "id": "3",
@@ -22,7 +26,9 @@
       "Nick_image": "https://avatarzo.ru/wp-content/uploads/category_animals_300x300.jpg",
       "title": "Пешеходный переход",
       "text": "Этот пешеходный переход безопасности не придает! Машины просто не уступают дорогу пешеходам, даже когда зеленый сигнал светофора. Это небезопасно и вызывает постоянный стресс при переходе!",
-      "image": "https://www.denia.com/wp-content/uploads/2013/08/Paso-para-peatones-desgastado-y-borrado-por-el-tiempo-en-Plaza-Valgamedios.jpg"
+      "image": "https://www.denia.com/wp-content/uploads/2013/08/Paso-para-peatones-desgastado-y-borrado-por-el-tiempo-en-Plaza-Valgamedios.jpg",
+      "location": "Улица Ленина, дом 78"
+      
     },
     {
       "id": "4",
@@ -30,7 +36,9 @@
       "Nick_image": "https://aminosart.ru/wp-content/uploads/2021/04/Krutye-avatarki-swag-18.jpg",
       "title": "Светофор",
       "text": "Этот светофор просто не работает нормально! Он переключается на зеленый для пешеходов настолько редко, что приходится ждать по несколько минут. Это очень раздражает!",
-      "image": "https://s0.bloknot-volzhsky.ru/thumb/850x0xcut/upload/iblock/ab3/mw0kkqlza0qp7cmifl4a81sfgqtlpuy4/WhatsApp-Image-2023_04_03-at-12.06.53.jpeg"
+      "image": "https://s0.bloknot-volzhsky.ru/thumb/850x0xcut/upload/iblock/ab3/mw0kkqlza0qp7cmifl4a81sfgqtlpuy4/WhatsApp-Image-2023_04_03-at-12.06.53.jpeg",
+      "location": "Аламединская улица, дом 23"
+      
     },
     {
       "id": "5",
@@ -38,7 +46,9 @@
       "Nick_image": "https://klike.net/uploads/posts/2019-03/1551512888_2.jpg",
       "title": "Дорожные ямы",
       "text": "Эти дорожные ямы превратили наши дороги в настоящий кошмар! Машины повреждаются, велосипедисты падают, а пешеходы рискуют подвернуть ногу. Почему власти не заботятся о ремонте дорог?",
-      "image": "https://cnev.ru/images/vozmeshchenie_ushcherba_iz_za_yamy_na_doroge.webp"
+      "image": "https://cnev.ru/images/vozmeshchenie_ushcherba_iz_za_yamy_na_doroge.webp",
+      "location": "Токтогула улица, дом 56"
+      
     },
     {
       "id": "6",
@@ -46,7 +56,9 @@
       "Nick_image": "https://media.licdn.com/dms/image/C4E03AQHI2QIVppwUDQ/profile-displayphoto-shrink_800_800/0/1598966701723?e=2147483647&v=beta&t=FX-wMZ3LI2-Xji4RlnO8Og5g_li9fo25vkm1TEKOoKg",
       "title": "Остановка общественного транспорта",
       "text": "Эта остановка общественного транспорта просто неудобна! Нет никаких сидений или крыши, чтобы защитить от дождя или солнца. Когда я жду автобус, это становится настоящей пыткой!",
-      "image": "https://img.freepik.com/premium-photo/public-transport-stop-in-the-village_515972-5859.jpg"
+      "image": "https://img.freepik.com/premium-photo/public-transport-stop-in-the-village_515972-5859.jpg",
+      "location": "Переулок Фрунзе, дом 34"
+      
     },
     {
       "id": "7",
@@ -54,7 +66,9 @@
       "Nick_image": "https://i.mycdn.me/i?r=AzHTJbfR1Z1DrzAcrKsnwlx-qG46nZB1Fj-8cF5kDCK67fcaXBpRGVJKjLLc0JH11no",
       "title": "Отсутствие тротуаров",
       "text": "В этом районе отсутствуют тротуары, и это просто неприемлемо! Люди вынуждены ходить по проезжей части, что очень опасно. Почему власти не предусмотрели тротуары для безопасности пешеходов?",
-      "image": "https://data.kaktus.media/image/big/2023-05-16_16-05-38_270398.jpg"
+      "image": "https://data.kaktus.media/image/big/2023-05-16_16-05-38_270398.jpg",
+      "location": "Жибек-Жолу проспект, дом 67"
+      
     },
     {
       "id": "8",
@@ -62,7 +76,9 @@
       "Nick_image": "https://abrakadabra.fun/uploads/posts/2021-12/1639216875_2-abrakadabra-fun-p-avatarki-volka-dlya-standoff-2.png",
       "title": "Отсутствие уличного освещения",
       "text": "В ночное время это место становится полной темнотой. Отсутствие уличного освещения создает небезопасную обстановку и вызывает чувство беспокойства. Я не могу понять, почему не установили фонари?",
-      "image": "https://kolodischi.by/piximage/wm/L3BpeGltYWdlL3Jlc2l6ZS82ODR4Ki9zdG9yYWdlL3VwbG9hZGVkL2FlYzRmNzRmNjZkMjFmZmFmMzJkOTBiZWI0YWNlOWFjLmpwZw==.jpg"
+      "image": "https://kolodischi.by/piximage/wm/L3BpeGltYWdlL3Jlc2l6ZS82ODR4Ki9zdG9yYWdlL3VwbG9hZGVkL2FlYzRmNzRmNjZkMjFmZmFmMzJkOTBiZWI0YWNlOWFjLmpwZw==.jpg",
+      "location": "Ахунбаева улица, дом 89"
+      
     },
     {
       "id": "9",
@@ -70,7 +86,9 @@
       "Nick": "Екатерина",
       "title": "Проблема мусора на дорогах",
       "text": "Наличие большого количества мусора на дорогах создает неблагоприятную обстановку и угрожает безопасности участников дорожного движения. Разбросанный мусор может стать причиной ДТП, так как он может закрыть обзорность, привлечь внимание водителей и вызвать неожиданные маневры. Кроме того, мусор на дорогах создает неприятные условия для пешеходов и велосипедистов. Эта проблема требует срочного внимания и мер по улучшению чистоты наших дорог.",
-      "image": "https://24.kg/uploads/posts/2014-07/1405489271_dsc_0060.jpg"
+      "image": "https://24.kg/uploads/posts/2014-07/1405489271_dsc_0060.jpg",
+      "location": "Тыныстанова улица, дом 14"
+      
     },
     {
       "id": "10",
@@ -78,7 +96,9 @@
       "Nick_image": "https://kartinki.pibig.info/uploads/posts/2023-04/1681895316_kartinki-pibig-info-p-kartinki-dlya-profilya-arti-instagram-1.jpg",
       "title": "Отсутствие доступа к воде",
       "text": "Отсутствие доступа к чистой питьевой воде является серьезной проблемой, с которой сталкиваются многие люди в различных регионах. Это приводит к недостатку гигиенических условий, заболеваниям и даже смертям. Недостаток воды также оказывает негативное влияние на сельское хозяйство и экономическое развитие. Для решения этой проблемы требуется принятие мер, направленных на обеспечение устойчивого доступа к чистой питьевой воде для всех людей.",
-      "image": "https://static.mk.ru/upload/entities/2021/10/13/07/articles/detailPicture/ac/62/04/a5/663aee55399f49aafb71e7543815bd3f.jpg"
+      "image": "https://static.mk.ru/upload/entities/2021/10/13/07/articles/detailPicture/ac/62/04/a5/663aee55399f49aafb71e7543815bd3f.jpg",
+      "location": "Боконбаева улица, дом 51"
+      
     }
   ]
 }
