@@ -3,6 +3,7 @@
     {
       "id": "1",
       "Nick": "Нурик",
+      "Nick_image": "https://sun9-46.userapi.com/impg/KD7IS775Ma334G4Fyub1oJsYLh0qOFSZPwunfA/xUiVE6bIT_o.jpg?size=600x600&quality=96&sign=c92c85105273a2afbffbb51b598d5f55&c_uniq_tag=boKPUWd8_6gSQKvCWpU_HZIRNmvGkD1A3MrxU12WZjU&type=album",
       "title": "Столб",
       "text": "Этот проклятый столб просто стоит на моем пути каждый день! Он совершенно ненужен и только мешает движению! Почему его не убирают? Я уже устал обходить его каждый раз, когда иду по этой дороге. Это просто неприемлемо!",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9IMtEyGE3iYTnGyKa65gNFlgEsCIcFADsWkqZ4XO81KGh_CJNX16xATO8zo74gwQ3cWA&usqp=CAU"
@@ -10,65 +11,74 @@
     {
       "id": "2",
       "Nick": "Марина",
+      "Nick_image": "https://klike.net/uploads/posts/2019-03/1551511801_1.jpg",
       "title": "Дом",
       "text": "Этот старый дом на углу просто ужасен! Он выглядит заброшенным и создает плохое впечатление о районе. Почему его не отремонтируют или не снесут? Это портит всю атмосферу!",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfBj9SdHstWDSwTmFqx0-l2vnyDb_gtkxIaBxOy7TOwZZPj0T_jxgm2jUb9EKIrSg9bqQ&usqp=CAU"
+      "image": "https://kubnews.ru/upload/resize_cache/iblock/dad/1200_630_2/dad1a66784cfc77b98e977a31b586521.jpg"
     },
     {
       "id": "3",
       "Nick": "Алексей",
+      "Nick_image": "https://avatarzo.ru/wp-content/uploads/category_animals_300x300.jpg",
       "title": "Пешеходный переход",
       "text": "Этот пешеходный переход безопасности не придает! Машины просто не уступают дорогу пешеходам, даже когда зеленый сигнал светофора. Это небезопасно и вызывает постоянный стресс при переходе!",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmG-L1wYYuk-IoEIKJhKzJmCT3vRV1kK0f2BG_HUa_U4eCUIPqTJQbC3s3fUKxwG3-WQc&usqp=CAU"
+      "image": "https://www.denia.com/wp-content/uploads/2013/08/Paso-para-peatones-desgastado-y-borrado-por-el-tiempo-en-Plaza-Valgamedios.jpg"
     },
     {
       "id": "4",
       "Nick": "Елена",
+      "Nick_image": "https://aminosart.ru/wp-content/uploads/2021/04/Krutye-avatarki-swag-18.jpg",
       "title": "Светофор",
       "text": "Этот светофор просто не работает нормально! Он переключается на зеленый для пешеходов настолько редко, что приходится ждать по несколько минут. Это очень раздражает!",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv4gJ3OMmbSMQaWJDNpklY95LUCUI2_8WgDw&usqp=CAU"
+      "image": "https://s0.bloknot-volzhsky.ru/thumb/850x0xcut/upload/iblock/ab3/mw0kkqlza0qp7cmifl4a81sfgqtlpuy4/WhatsApp-Image-2023_04_03-at-12.06.53.jpeg"
     },
     {
       "id": "5",
       "Nick": "Иван",
+      "Nick_image": "https://klike.net/uploads/posts/2019-03/1551512888_2.jpg",
       "title": "Дорожные ямы",
       "text": "Эти дорожные ямы превратили наши дороги в настоящий кошмар! Машины повреждаются, велосипедисты падают, а пешеходы рискуют подвернуть ногу. Почему власти не заботятся о ремонте дорог?",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT3WnVi7-EILGjBKeK-L8QeQ_vbk0aH6R7iA&usqp=CAU"
+      "image": "https://cnev.ru/images/vozmeshchenie_ushcherba_iz_za_yamy_na_doroge.webp"
     },
     {
       "id": "6",
       "Nick": "Ольга",
+      "Nick_image": "https://media.licdn.com/dms/image/C4E03AQHI2QIVppwUDQ/profile-displayphoto-shrink_800_800/0/1598966701723?e=2147483647&v=beta&t=FX-wMZ3LI2-Xji4RlnO8Og5g_li9fo25vkm1TEKOoKg",
       "title": "Остановка общественного транспорта",
       "text": "Эта остановка общественного транспорта просто неудобна! Нет никаких сидений или крыши, чтобы защитить от дождя или солнца. Когда я жду автобус, это становится настоящей пыткой!",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8XW2iJ_lU3i1WvDffv9_zepkAXPvHak5gUg&usqp=CAU"
+      "image": "https://img.freepik.com/premium-photo/public-transport-stop-in-the-village_515972-5859.jpg"
     },
     {
       "id": "7",
       "Nick": "Дмитрий",
+      "Nick_image": "https://i.mycdn.me/i?r=AzHTJbfR1Z1DrzAcrKsnwlx-qG46nZB1Fj-8cF5kDCK67fcaXBpRGVJKjLLc0JH11no",
       "title": "Отсутствие тротуаров",
       "text": "В этом районе отсутствуют тротуары, и это просто неприемлемо! Люди вынуждены ходить по проезжей части, что очень опасно. Почему власти не предусмотрели тротуары для безопасности пешеходов?",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy2XKjw1cMEcDnH28c-YyzxEL8bhcl8oLrXmEESxgQ2XxLJtS8GvDgnmBD0RBydY0PTgA&usqp=CAU"
+      "image": "https://data.kaktus.media/image/big/2023-05-16_16-05-38_270398.jpg"
     },
     {
       "id": "8",
-      "Nick": "Анна",
-      "title": "Отсутствие велосипедных дорожек",
-      "text": "Как велосипедист, я чувствую себя очень неуверенно на дороге из-за отсутствия велосипедных дорожек. Водители не уважают мое присутствие, и это создает опасность для всех участников дорожного движения.",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqU1ajHkajGzS1QBS2tUPvQVhPWpSb5DmEzA&usqp=CAU"
+      "Nick": "Максим",
+      "Nick_image": "https://abrakadabra.fun/uploads/posts/2021-12/1639216875_2-abrakadabra-fun-p-avatarki-volka-dlya-standoff-2.png",
+      "title": "Отсутствие уличного освещения",
+      "text": "В ночное время это место становится полной темнотой. Отсутствие уличного освещения создает небезопасную обстановку и вызывает чувство беспокойства. Я не могу понять, почему не установили фонари?",
+      "image": "https://kolodischi.by/piximage/wm/L3BpeGltYWdlL3Jlc2l6ZS82ODR4Ki9zdG9yYWdlL3VwbG9hZGVkL2FlYzRmNzRmNjZkMjFmZmFmMzJkOTBiZWI0YWNlOWFjLmpwZw==.jpg"
     },
     {
       "id": "9",
-      "Nick": "Максим",
-      "title": "Отсутствие уличного освещения",
-      "text": "В ночное время это место становится полной темнотой. Отсутствие уличного освещения создает небезопасную обстановку и вызывает чувство беспокойства. Я не могу понять, почему не установили фонари?",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Xq1FVxsm_TiXlGnWfX0i0y9VddjfdR9gSQ&usqp=CAU"
+      "Nick_image": "https://kartinki.pibig.info/uploads/posts/2023-04/1681895316_kartinki-pibig-info-p-kartinki-dlya-profilya-arti-instagram-1.jpg",
+      "Nick": "Екатерина",
+      "title": "Проблема мусора на дорогах",
+      "text": "Наличие большого количества мусора на дорогах создает неблагоприятную обстановку и угрожает безопасности участников дорожного движения. Разбросанный мусор может стать причиной ДТП, так как он может закрыть обзорность, привлечь внимание водителей и вызвать неожиданные маневры. Кроме того, мусор на дорогах создает неприятные условия для пешеходов и велосипедистов. Эта проблема требует срочного внимания и мер по улучшению чистоты наших дорог.",
+      "image": "https://24.kg/uploads/posts/2014-07/1405489271_dsc_0060.jpg"
     },
     {
       "id": "10",
       "Nick": "Екатерина",
-      "title": "Отсутствие дорожных знаков",
-      "text": "Отсутствие ясных дорожных знаков делает это место запутанным и опасным для водителей. Каждый раз приходится гадать, в какую сторону мне двигаться. Это вызывает стресс и увеличивает риск ДТП.",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkDO_6eOpv3XrnlTtE-s2DBZiAsC2W6Zv4lw&usqp=CAU"
+      "Nick_image": "https://kartinki.pibig.info/uploads/posts/2023-04/1681895316_kartinki-pibig-info-p-kartinki-dlya-profilya-arti-instagram-1.jpg",
+      "title": "Отсутствие доступа к воде",
+      "text": "Отсутствие доступа к чистой питьевой воде является серьезной проблемой, с которой сталкиваются многие люди в различных регионах. Это приводит к недостатку гигиенических условий, заболеваниям и даже смертям. Недостаток воды также оказывает негативное влияние на сельское хозяйство и экономическое развитие. Для решения этой проблемы требуется принятие мер, направленных на обеспечение устойчивого доступа к чистой питьевой воде для всех людей.",
+      "image": "https://static.mk.ru/upload/entities/2021/10/13/07/articles/detailPicture/ac/62/04/a5/663aee55399f49aafb71e7543815bd3f.jpg"
     }
   ]
 }
