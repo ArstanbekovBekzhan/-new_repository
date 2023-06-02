@@ -1,0 +1,74 @@
+{
+  "cards": [
+    {
+      "id": "1",
+      "Nick": "Нурик",
+      "title": "Столб",
+      "text": "Этот проклятый столб просто стоит на моем пути каждый день! Он совершенно ненужен и только мешает движению! Почему его не убирают? Я уже устал обходить его каждый раз, когда иду по этой дороге. Это просто неприемлемо!",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9IMtEyGE3iYTnGyKa65gNFlgEsCIcFADsWkqZ4XO81KGh_CJNX16xATO8zo74gwQ3cWA&usqp=CAU"
+    },
+    {
+      "id": "2",
+      "Nick": "Марина",
+      "title": "Дом",
+      "text": "Этот старый дом на углу просто ужасен! Он выглядит заброшенным и создает плохое впечатление о районе. Почему его не отремонтируют или не снесут? Это портит всю атмосферу!",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfBj9SdHstWDSwTmFqx0-l2vnyDb_gtkxIaBxOy7TOwZZPj0T_jxgm2jUb9EKIrSg9bqQ&usqp=CAU"
+    },
+    {
+      "id": "3",
+      "Nick": "Алексей",
+      "title": "Пешеходный переход",
+      "text": "Этот пешеходный переход безопасности не придает! Машины просто не уступают дорогу пешеходам, даже когда зеленый сигнал светофора. Это небезопасно и вызывает постоянный стресс при переходе!",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmG-L1wYYuk-IoEIKJhKzJmCT3vRV1kK0f2BG_HUa_U4eCUIPqTJQbC3s3fUKxwG3-WQc&usqp=CAU"
+    },
+    {
+      "id": "4",
+      "Nick": "Елена",
+      "title": "Светофор",
+      "text": "Этот светофор просто не работает нормально! Он переключается на зеленый для пешеходов настолько редко, что приходится ждать по несколько минут. Это очень раздражает!",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv4gJ3OMmbSMQaWJDNpklY95LUCUI2_8WgDw&usqp=CAU"
+    },
+    {
+      "id": "5",
+      "Nick": "Иван",
+      "title": "Дорожные ямы",
+      "text": "Эти дорожные ямы превратили наши дороги в настоящий кошмар! Машины повреждаются, велосипедисты падают, а пешеходы рискуют подвернуть ногу. Почему власти не заботятся о ремонте дорог?",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT3WnVi7-EILGjBKeK-L8QeQ_vbk0aH6R7iA&usqp=CAU"
+    },
+    {
+      "id": "6",
+      "Nick": "Ольга",
+      "title": "Остановка общественного транспорта",
+      "text": "Эта остановка общественного транспорта просто неудобна! Нет никаких сидений или крыши, чтобы защитить от дождя или солнца. Когда я жду автобус, это становится настоящей пыткой!",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8XW2iJ_lU3i1WvDffv9_zepkAXPvHak5gUg&usqp=CAU"
+    },
+    {
+      "id": "7",
+      "Nick": "Дмитрий",
+      "title": "Отсутствие тротуаров",
+      "text": "В этом районе отсутствуют тротуары, и это просто неприемлемо! Люди вынуждены ходить по проезжей части, что очень опасно. Почему власти не предусмотрели тротуары для безопасности пешеходов?",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy2XKjw1cMEcDnH28c-YyzxEL8bhcl8oLrXmEESxgQ2XxLJtS8GvDgnmBD0RBydY0PTgA&usqp=CAU"
+    },
+    {
+      "id": "8",
+      "Nick": "Анна",
+      "title": "Отсутствие велосипедных дорожек",
+      "text": "Как велосипедист, я чувствую себя очень неуверенно на дороге из-за отсутствия велосипедных дорожек. Водители не уважают мое присутствие, и это создает опасность для всех участников дорожного движения.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqU1ajHkajGzS1QBS2tUPvQVhPWpSb5DmEzA&usqp=CAU"
+    },
+    {
+      "id": "9",
+      "Nick": "Максим",
+      "title": "Отсутствие уличного освещения",
+      "text": "В ночное время это место становится полной темнотой. Отсутствие уличного освещения создает небезопасную обстановку и вызывает чувство беспокойства. Я не могу понять, почему не установили фонари?",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Xq1FVxsm_TiXlGnWfX0i0y9VddjfdR9gSQ&usqp=CAU"
+    },
+    {
+      "id": "10",
+      "Nick": "Екатерина",
+      "title": "Отсутствие дорожных знаков",
+      "text": "Отсутствие ясных дорожных знаков делает это место запутанным и опасным для водителей. Каждый раз приходится гадать, в какую сторону мне двигаться. Это вызывает стресс и увеличивает риск ДТП.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkDO_6eOpv3XrnlTtE-s2DBZiAsC2W6Zv4lw&usqp=CAU"
+    }
+  ]
+}
