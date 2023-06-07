@@ -39,7 +39,7 @@ const CardDetails = () => {
             <h4>{Address}</h4>
             </div>
           </div>
-          {/* <CardMap address={Address}/> */}
+          <CardMap address={Address}/>
             </div>
           
         )}
